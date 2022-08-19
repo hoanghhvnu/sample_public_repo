@@ -4,3 +4,4 @@ This is second line
 4 line
 5 line with tag
 6 line to test build timeout
+7 line build test interrupt current build
